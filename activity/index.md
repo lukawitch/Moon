@@ -1,5 +1,5 @@
 ---
-layout: school,ect
+layout: activity
 title: Activity,ect
 excerpt: "activity"
 comments: false
